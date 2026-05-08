@@ -37,3 +37,16 @@
 ---
 
 > Data Analyst with experience analyzing clinical trial data, building machine learning models, and turning complex datasets into actionable insights across the biostatistics field. I have worked with clinical trial data by developing statistical analysis plans at Summit Biostats. Currently seeking data analyst roles. U.S. Citizen, open to relocation.
+
+---
+
+**📬 Contact**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahnoh/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tahnoh041@gmail.com)
+
+---
+
+**📄 Resume**
+
+[![Resume](https://img.shields.io/badge/View%20Resume-4CAF50?style=flat-square&logo=googledrive&logoColor=white)](https://your-resume-link.com)
