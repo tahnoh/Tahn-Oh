@@ -25,15 +25,6 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Methods**
-
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F61?style=flat-square)
-![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-5C6BC0?style=flat-square)
-![ETL](https://img.shields.io/badge/ETL-43A047?style=flat-square)
-![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-00897B?style=flat-square)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-8E24AA?style=flat-square)
-![ANOVA](https://img.shields.io/badge/ANOVA-E53935?style=flat-square)
-
 ---
 
 > Data Analyst with experience analyzing clinical trial data, building machine learning models, and turning complex datasets into actionable insights across the biostatistics field. I have worked with clinical trial data by developing statistical analysis plans at Summit Biostats. Currently seeking data analyst roles. U.S. Citizen, open to relocation.
